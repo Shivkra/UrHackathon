@@ -15,7 +15,7 @@ const GetStarted = () => {
   return (
       <div 
       	className="apply-button" 
-      	data-hackathon-slug="YOUR-HACKATHON-SLUG" 
+      	data-hackathon-slug="urweb3hackathon" 
       	data-button-theme="dark-inverted"
       ></div>
     )
